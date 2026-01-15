@@ -34,9 +34,8 @@ I am a results-driven Backend Developer focused on building robust, scalable, an
 </p>
 
 <p align="left">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-used-languages?username=sealtielmaximilianodelaosegura-star&theme=tokyonight" alt="Languages Card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealtielmaximilianodelaosegura-star&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
 </p>
-
 ---
 
 ### 📫 Connect with me:
