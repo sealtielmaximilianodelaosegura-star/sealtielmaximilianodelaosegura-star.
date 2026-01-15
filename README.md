@@ -29,10 +29,11 @@ I am a results-driven Backend Developer focused on building robust, scalable, an
 ### 📊 GitHub Stats
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=sealtielmaximilianodelaosegura-star&show_icons=true&theme=tokyonight&hide_border=true" alt="Sealtiel Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=sealtielmaximilianodelaosegura-star&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="Sealtiel Stats" />
 </p>
+
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealtielmaximilianodelaosegura-star&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealtielmaximilianodelaosegura-star&layout=compact&theme=tokyonight&hide_progress=true" alt="Top Languages" />
 </p>
 
 ---
