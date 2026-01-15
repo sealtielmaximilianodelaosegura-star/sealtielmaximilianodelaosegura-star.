@@ -1,13 +1,13 @@
-# sealtielmaximilianodelaosegura-star.
+# sealtielmaximilianodelaosegura-star
 
-# ¡Hola! Soy Sealtiel Maximiliano 👋
-### Desarrollador Backend Java | Spring Boot Enthusiast
+# Hi! I'm Sealtiel Maximiliano 👋
+### Java Backend Developer | Spring Boot Enthusiast
 
-Soy un desarrollador apasionado por la construcción de sistemas robustos y escalables. Me especializo en el ecosistema **Java** y actualmente estoy perfeccionando mis habilidades en arquitectura de software y desarrollo de APIs REST.
+I am a developer passionate about building **robust and scalable systems**. I specialize in the **Java ecosystem** and I am currently improving my skills in **software architecture** and **REST API development**.
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies & Tools
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -18,19 +18,15 @@ Soy un desarrollador apasionado por la construcción de sistemas robustos y esca
 
 ---
 
-### 🚀 Sobre mí
+### 🚀 About Me
 
-* 🔭 Actualmente estoy trabajando en proyectos de **Backend con Spring Boot**.
-* 📚 Aprendiendo constantemente en **Alura Latam / Oracle Next Education**.
-* 💼 Busco oportunidades para colaborar en proyectos Open Source o Freelance.
-* ⚡ Dato curioso: Me encanta resolver problemas de lógica complejos.
-
----
-
-### 📊 Mis Estadísticas en GitHub
-
-![Estadísticas de Sealtiel](https://github-readme-stats.vercel.app/api?username=sealtielmaximilianodelaosegura-star&show_icons=true&theme=tokyonight&hide_border=true)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=sealtielmaximilianodelaosegura-star&layout=compact&theme=tokyonight&hide_border=true)
+- 🔭 Currently working on **Backend projects using Spring Boot**
+- 📚 Continuously learning through **Alura Latam / Oracle Next Education**
+- 💼 Open to **Open Source** and **Freelance** collaboration opportunities
+- ⚡ Fun fact: I enjoy solving complex logic and problem-solving challenges
 
 ---
-⭐️ *Si alguno de mis proyectos te ayuda, ¡no dudes en darle una estrella!*
+
+### 📊 GitHub Stats
+
+![Sealtiel's GitHub stats](https://github-readme-stats.vercel.app/api?username=sealtielmaximilianodelaosegura-star&show_icons=true&theme=tokyonight&hide_border=true)
