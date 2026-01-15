@@ -36,11 +36,28 @@ I specialize in the **Java ecosystem**, with a strong interest in clean architec
 
 ### 💻 My Top Languages
 ![Java](https://img.shields.io/badge/Java-80%25-orange) ![Spring](https://img.shields.io/badge/Spring-15%25-green) ![Other](https://img.shields.io/badge/Other-5%25-lightgrey)
+
 ---
+
+### 🧩 Featured Projects
+
+- **Aurum & Co. – Jewelry E-commerce**
+  - Responsive frontend with product catalog
+  - Focused on clean UI and conversion-oriented design
+  - Tech: HTML, CSS, JavaScript
+
+- **Workflow Manager (ProDash)**
+  - Task management app with local persistence
+  - PDF export and professional UI
+  - Tech: JavaScript, LocalStorage
+
+- **Quotation Calculator**
+  - Dynamic calculator for service pricing
+  - Clean UX focused on freelancers and small businesses
 
 ### 📫 Connect with me:
 
-- [LinkedIn](https://www.linkedin.com/in/tu-usuario-real-aqui/) 
+
 - [Email](mailto:sealtielmaximilianodelaosegura@gmail.com)
 
 ⭐️ *Feel free to explore my repositories. If you find something useful, a star would be appreciated!*
