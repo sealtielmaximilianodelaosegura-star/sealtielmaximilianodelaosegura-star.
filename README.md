@@ -1,5 +1,5 @@
 # Hi there! I'm Sealtiel Maximiliano 👋
-### Backend Developer | Java & Spring Boot Specialist
+### Junior Backend Developer | Java & Spring Boot
 
 I am a results-driven Backend Developer focused on building robust, scalable, and efficient server-side applications. I specialize in the **Java ecosystem**, transforming complex business logic into clean, maintainable code.
 
