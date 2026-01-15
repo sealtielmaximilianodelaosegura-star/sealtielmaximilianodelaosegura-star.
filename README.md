@@ -32,6 +32,6 @@ I am a results-driven Backend Developer focused on building robust, scalable, an
 
 ---
 ### 📫 Connect with me:
-[LinkedIn](TU_LINK_DE_LINKEDIN_AQUI) | [Email](mailto:tu_correo@ejemplo.com)
+[LinkedIn](TU_LINK_DE_LINKEDIN_AQUI) | [Email](sealtielmaximilianodelaosegura@gmail.com)
 
 ⭐️ *Feel free to explore my repositories. If you find something useful, a star would be appreciated!*
