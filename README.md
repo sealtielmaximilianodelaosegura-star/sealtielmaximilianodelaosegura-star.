@@ -7,12 +7,13 @@ I am a results-driven Backend Developer focused on building robust, scalable, an
 
 ### 🛠️ Tech Stack & Tools
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-0000FF?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
@@ -27,11 +28,18 @@ I am a results-driven Backend Developer focused on building robust, scalable, an
 
 ### 📊 GitHub Stats
 
-![Sealtiel's Stats](https://github-readme-stats.vercel.app/api?username=sealtielmaximilianodelaosegura-star&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sealtielmaximilianodelaosegura-star&layout=compact&theme=tokyonight&hide_border=true)
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=sealtielmaximilianodelaosegura-star&show_icons=true&theme=tokyonight&hide_border=true" alt="Sealtiel Stats" />
+</p>
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealtielmaximilianodelaosegura-star&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
+
 ### 📫 Connect with me:
-[LinkedIn](TU_LINK_DE_LINKEDIN_AQUI) | [Email](sealtielmaximilianodelaosegura@gmail.com)
+
+- [LinkedIn](https://www.linkedin.com/in/tu-usuario-real-aqui/) 
+- [Email](mailto:tu-correo-real@gmail.com)
 
 ⭐️ *Feel free to explore my repositories. If you find something useful, a star would be appreciated!*
