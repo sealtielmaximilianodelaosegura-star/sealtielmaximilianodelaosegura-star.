@@ -33,9 +33,8 @@ I am a results-driven Backend Developer focused on building robust, scalable, an
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sealtielmaximilianodelaosegura-star&theme=tokyonight" alt="Detailed Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sealtielmaximilianodelaosegura-star&layout=compact&theme=tokyonight&hide_border=true&langs_count=5" alt="Top Languages" />
-</p>
+### 💻 My Top Languages
+![Java](https://img.shields.io/badge/Java-80%25-orange) ![Spring](https://img.shields.io/badge/Spring-15%25-green) ![Other](https://img.shields.io/badge/Other-5%25-lightgrey)
 ---
 
 ### 📫 Connect with me:
