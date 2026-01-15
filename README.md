@@ -20,7 +20,7 @@ I specialize in the **Java ecosystem**, with a strong interest in clean architec
 
 ### 🚀 About Me
 
-* 🔭 **Currently working on:** Advanced Backend systems and RESTful API integration.
+* 🔭 ***Currently working on:** Backend projects using Spring Boot and RESTful APIs.
 * 📚 **Education:** Graduate of the **Oracle Next Education (ONE)** program at Alura Latam.
 * 💼 **Open for:** Freelance opportunities and Junior Backend roles.
 * 🎯 **Goal:** Building software that solves real-world problems through clean architecture.
