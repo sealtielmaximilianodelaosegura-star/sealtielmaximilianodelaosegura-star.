@@ -35,7 +35,8 @@ I specialize in the **Java ecosystem**, with a strong interest in clean architec
 </p>
 
 ### 💻 My Top Languages
-![Java](https://img.shields.io/badge/Java-80%25-orange) ![Spring](https://img.shields.io/badge/Spring-15%25-green) ![Other](https://img.shields.io/badge/Other-5%25-lightgrey)
+![Java](https://img.shields.io/badge/Java-80%25-orange) <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+![Other](https://img.shields.io/badge/Other-5%25-lightgrey)
 
 ---
 
